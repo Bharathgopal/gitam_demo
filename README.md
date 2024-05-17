@@ -1,3 +1,3 @@
 # gitam_demo
 
-Changes from workspace2
+Example to show merge conflict
