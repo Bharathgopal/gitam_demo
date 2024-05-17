@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// function to divide
 int division(int num1, int num2)
 {
     int result = 0;
