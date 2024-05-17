@@ -1,5 +1,16 @@
 #include <stdio.h>
 
+int division(int num1, int num2)
+{
+    int result = 0;
+
+    if (num2 != 0)
+    {
+        result = num1 / num2;
+    }
+    return result;
+}
+
 int main() 
 {
     int num1, num2, num3;
